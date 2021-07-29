@@ -1,5 +1,7 @@
 # vue-supabase-auth
 
+### Used [nodejs-with-supabase-auth-api](https://github.com/mestoness/nodejs-with-supabase-auth-api) as backend service
+
 ## Project setup
 ```
 npm install
